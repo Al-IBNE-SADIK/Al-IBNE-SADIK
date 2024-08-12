@@ -1,4 +1,4 @@
-[![𝙼𝚁.AIS-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![𝙼𝚁.SPY-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -23,7 +23,7 @@
  <img src="https://profile-counter.glitch.me/𝙼𝚁.𝙳𝙾𝙳-𝙾𝙵𝙲𝚈𝙱𝙰𝚁/count.svg" />
 </p>
 
-![𝙼𝚁.AIS-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺](68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4e696b693430342d4379626572267468656d653d6d6f6e6f6b6169.svg)
+![𝙼𝚁.SPY-𝙾𝙵𝙲𝚈𝙱𝙰𝚁-𝚂𝙰𝙳𝙸𝙺](68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4e696b693430342d4379626572267468656d653d6d6f6e6f6b6169.svg)
 
 ![𝙼𝚁.AIS-𝙾𝙵𝙲𝚈𝙱𝙰𝚁 𝚂𝙰𝙳𝙸𝙺](md7Oqrf.gif)
 
@@ -57,7 +57,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺  𝙵𝙰𝙶𝙴 :- [🅜︎🅡︎ 🅓︎🅞︎🅓︎](https://www.facebook.com/MR.DOD1)
+- ➪𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺  𝙵𝙰𝙶𝙴 :- [🅜︎🅡︎ SPY](https://www.facebook.com/ALIBNESADIK)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
