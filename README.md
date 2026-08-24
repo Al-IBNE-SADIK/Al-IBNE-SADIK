@@ -37,7 +37,7 @@
 
 ---
 
-### 🏆 **[ ROOT-NET // MATRIX STATS & METRICS ]**
+### 🏆 **[ ROOT-NET ]**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300FF00&background=00000000&center=true&vCenter=true&multiline=true&size=18&lines=SYSTEM_STATUS:ONLINE;AUTHOR:ROOT-NET_SADIQ;SECURITY_LEVEL:MAXIMUM;CORE_ENGINE:PYTHON_/_BASH" alt="Matrix Stats" />
