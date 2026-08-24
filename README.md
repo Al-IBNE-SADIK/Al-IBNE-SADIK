@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Al-IBNE-SADIK/ROOT/refs/heads/main/Screenshot_2026-08-24-01-30-06-761_com.termux.jpg" width="100%" alt="Termux View 1">
+      <img src="https://raw.githubusercontent.com/RN-SADIQ/TXT/refs/heads/main/Screenshot_2026-08-24-02-16-08-111_com.termux.jpg" width="100%" alt="Termux View 1">
       <br><sub><b>⚡ [ ROOT_NET_V25 ]</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/Al-IBNE-SADIK/ROOT/refs/heads/main/Screenshot_2026-08-24-03-34-32-863_com.termux.jpg" width="100%" alt="Termux View 2">
+      <img src="https://raw.githubusercontent.com/RN-SADIQ/TXT/refs/heads/main/IMG-20260824-WA0002.jpg" width="100%" alt="Termux View 2">
       <br><sub><b>⚡ [ ROOT_NET_V25 ]</b></sub>
     </td>
   </tr>
